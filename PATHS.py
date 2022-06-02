@@ -1,10 +1,13 @@
 NAVBAR_PATHS = {
     'HOME':'home',
-    'ABOUT': 'about',
-    'ANALYSIS': 'analysis'
+    'DOCTORS': 'about',
+    'DIET-PLANNING': 'analysis',
+    'DIABATICS':'options',
+    
+
 }
 
 SETTINGS = {
-    'OPTIONS':'options',
+    
     'CONFIGURATION':'configuration'
 }
